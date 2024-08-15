@@ -1,0 +1,29 @@
+{
+  "project_info": {
+    "project_number": "1083925408822",
+    "project_id": "donkey-horse-dev",
+    "storage_bucket": "donkey-horse-dev.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:1083925408822:android:47106ddc437e8f3e163c97",
+        "android_client_info": {
+          "package_name": "com.adelrosarioh.donkeyhorse"
+        }
+      },
+      "oauth_client": [],
+      "api_key": [
+        {
+          "current_key": "AIzaSyDoOSG5TDyiQa5EDIbNRRVkiSklRUgQgVU"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": []
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
